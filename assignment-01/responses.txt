@@ -1,0 +1,7 @@
+How is the web different from the internet? The internet(work) is "a system spanning many networks." Basically a giant network of networks. The web (world wide web) is the information that is accessed by the internet. "The internet connects participants, the interweb connects information.
+
+How the internet works: The internet is a wire, and computers (servers) that are connected to that wire can communicate. A wepage is a file on the server's hard drive, and every server has it's only address (IP) address to identify it. As long as things are connected to the wire, they can send information back and forth.
+
+What is a directory, and what is its relationship to files? A directory is where a file is kept - also referred to as a "folder".
+
+Why is using a VCS beneficial? 
