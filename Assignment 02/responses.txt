@@ -1,0 +1,12 @@
+Brittany Streissguth
+
+1. One way data travels on the internet is through fiber optic cables, which are threads of glass engineered to reflect light.
+
+2. The relationship between an IP address and the DNS is the DNS (Domain Name System) translates a domain name into an IP address, which is a device's unique number used to identify it.
+
+3. A cookie is a system your computer uses to remember your information.
+
+4. The 3 basic parts of a URL:
+-Protocol (http://)
+-Domain (.com)
+-Path (/directory/)
