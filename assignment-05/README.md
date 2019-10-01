@@ -1,4 +1,4 @@
-# Assignment 04
+# Assignment 05
 ## Brittany Streissguth
 
 1. A document has one <head> element and one <body> element. The <head> is where all the "background information" is for the website - where the metadata is kept. i.e. title, description, author, etc. And the body is where all of the details of what is seen on the website is located, and consists of structural markup and semantic markup.
