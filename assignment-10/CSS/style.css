@@ -1,0 +1,54 @@
+body {
+  background-color: #ffffff;
+  color: black;
+  padding: 5px;
+}
+
+h1, h2 {
+  font-family: 'Lora', serif;
+  text-align: center;
+}
+
+/* image */
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* body paragraphs */
+.intro {
+  background-color: #F0F8FF;
+  color: black;
+  padding: 5px;
+  font-family: 'Roboto', sans-serif;
+  text-indent: 1.5em
+}
+.text {
+  background-color: #F0F8FF;
+  color: black;
+  padding: 5px;
+  font-family: 'Roboto', sans-serif;
+}
+
+p:first-of-type:first-letter {
+  font-size: 200%;
+}
+
+/* Continue Reading Link */
+
+a {
+  background-color: #FFE4E1;
+  color: black;
+  font-family: 'Roboto', sans-serif;
+  padding: 5px;
+}
+
+a:visited {
+  color: #FFFFFF;
+}
+
+a:hover {
+  font-weight: 700;
+}
