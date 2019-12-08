@@ -1,0 +1,100 @@
+/* --NAV MENU CSS-- */
+
+
+/* Nav Bar Container */
+
+menu {
+  margin: 0;
+  padding: 0;
+  background-color: #FFF;
+  float: right;
+
+}
+
+menu a {
+  color: #FFA07A;
+  text-decoration: none;
+  font-family: 'Raleway', Verdana, sans-serif;
+}
+
+
+
+/* Nav Bar Links */
+#nav-links {
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+
+}
+#nav-links .nav-item {
+  width: 4em;
+  padding: .5em;
+  display: inline-block;
+  background-color: #FFF;
+  text-align: center;
+}
+
+#nav-links .nav-item:hover {
+  background-color: #FFA07A;
+  color: #FFF;
+}
+
+
+/* Nav Bar Dropdown */
+#nav-links .dropdown {
+  display: inline-block;
+  width: 4em;
+  padding: .5em;
+}
+#nav-links .dropdown-content {
+  display: none;
+  position: absolute;
+
+  background-color: #FFF;
+  color: #FFA07A;
+  z-index: 5;
+}
+#nav-links .dropdown-content a {
+  background-color: #FFF;
+  color: #FFA07A;
+
+}
+#nav-links .dropdown-content a:hover {
+  background-color: #FFF;
+  color: #FFA07A;
+  font-weight: 1000;
+}
+#nav-links .dropdown:hover .dropdown-content {
+  display: block;
+}
+#nav-links .dropdown-item {
+  min-width: 4em;
+  padding: .5em;
+  text-align: center;
+  display: block;
+}
+
+.dropdown-item:hover {
+
+}
+
+
+/* Nav Bar Social Links */
+#social-links {
+  padding: .5em;
+  display: inline-block;
+  float: right;
+
+}
+#social-links .social-item {
+  margin: 5px;
+
+}
+#social-links img {
+  width: 30px;
+  height: 30px;
+  opacity: .75;
+}
+#social-links img:hover {
+  opacity: 1;
+}
