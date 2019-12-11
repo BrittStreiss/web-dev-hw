@@ -89,3 +89,9 @@ menu {
 #social-links img:hover {
   opacity: 1;
 }
+/*Main Content*/
+
+#docs-main {
+  text-align: center;
+  padding: 20px;
+}
